@@ -1,0 +1,46 @@
+<svg width="760" height="440" viewBox="0 0 760 440" xmlns="http://www.w3.org/2000/svg" font-family="'Noto Sans KR','Apple SD Gothic Neo',system-ui,sans-serif">
+  <rect width="760" height="440" fill="#f0f0f5" rx="12"/>
+  <rect width="760" height="38" fill="#1d1d1f" rx="12"/><rect y="26" width="760" height="12" fill="#1d1d1f"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/><circle cx="42" cy="19" r="6" fill="#febc2e"/><circle cx="62" cy="19" r="6" fill="#28c840"/>
+  <text x="380" y="24" text-anchor="middle" font-size="13" fill="#888" font-weight="500">채팅 계속 사용 vs 새 채팅 — 크레딧 차이</text>
+  <rect x="10" y="46" width="355" height="386" fill="#fff" rx="12" stroke="#ffb3b3" stroke-width="2"/>
+  <rect x="10" y="46" width="355" height="38" fill="#fff5f5" rx="12"/><rect x="10" y="72" width="355" height="12" fill="#fff5f5"/>
+  <text x="188" y="70" text-anchor="middle" font-size="13" fill="#e03131" font-weight="700">❌ 같은 채팅에서 계속 이어가기</text>
+  <rect x="24" y="96" width="280" height="28" fill="#f2f2f7" rx="7"/>
+  <text x="36" y="114" font-size="11.5" fill="#3a3a3c">1주차: 업로드예정 폴더 처리해줘</text>
+  <rect x="24" y="130" width="310" height="28" fill="#f2f2f7" rx="7"/>
+  <text x="36" y="148" font-size="11.5" fill="#3a3a3c">2주차: 이번주 핀 14개 더 처리해줘</text>
+  <rect x="24" y="164" width="310" height="28" fill="#f2f2f7" rx="7"/>
+  <text x="36" y="182" font-size="11.5" fill="#3a3a3c">3주차: 재작업 폴더도 처리해줘</text>
+  <rect x="24" y="198" width="320" height="28" fill="#ffebeb" rx="7" stroke="#ffb3b3" stroke-width="1"/>
+  <text x="36" y="216" font-size="11.5" fill="#c0392b">4주차: 이전 대화 전부 읽으며 시작...</text>
+  <rect x="24" y="240" width="320" height="80" fill="#fff5f5" rx="10" stroke="#ffb3b3" stroke-width="1"/>
+  <text x="40" y="260" font-size="12" fill="#e03131" font-weight="700">⚠️ 왜 크레딧이 빠르게 소모될까?</text>
+  <text x="40" y="278" font-size="11.5" fill="#9b1c1c">채팅이 길어질수록 Claude는</text>
+  <text x="40" y="294" font-size="11.5" fill="#9b1c1c">이전 대화 전체를 매번 읽습니다.</text>
+  <text x="40" y="310" font-size="11.5" fill="#c0392b" font-weight="600">→ 대화가 쌓일수록 토큰 소모 ↑↑</text>
+  <rect x="24" y="334" width="320" height="24" fill="#f2f2f7" rx="6"/>
+  <rect x="24" y="334" width="290" height="24" fill="#e03131" rx="6"/>
+  <text x="169" y="350" text-anchor="middle" font-size="11" fill="#fff" font-weight="700">크레딧 소모 많음 ███████████</text>
+  <text x="188" y="400" text-anchor="middle" font-size="12" fill="#e03131" font-weight="600">채팅 4회차 = 크레딧 대폭 증가</text>
+  <rect x="395" y="46" width="355" height="386" fill="#fff" rx="12" stroke="#a8d8b9" stroke-width="2"/>
+  <rect x="395" y="46" width="355" height="38" fill="#eafaf1" rx="12"/><rect x="395" y="72" width="355" height="12" fill="#eafaf1"/>
+  <text x="573" y="70" text-anchor="middle" font-size="13" fill="#1e8449" font-weight="700">✅ 작업마다 새 채팅 열기</text>
+  <rect x="409" y="96" width="320" height="50" fill="#eafaf1" rx="8" stroke="#a8d8b9" stroke-width="1"/>
+  <text x="425" y="114" font-size="11.5" fill="#1e8449" font-weight="600">새 채팅 #1</text>
+  <text x="425" y="133" font-size="11.5" fill="#3a3a3c">업로드예정 폴더 처리해줘</text>
+  <rect x="409" y="152" width="320" height="50" fill="#eafaf1" rx="8" stroke="#a8d8b9" stroke-width="1"/>
+  <text x="425" y="170" font-size="11.5" fill="#1e8449" font-weight="600">새 채팅 #2</text>
+  <text x="425" y="189" font-size="11.5" fill="#3a3a3c">이번주 핀 14개 처리해줘</text>
+  <rect x="409" y="208" width="320" height="50" fill="#eafaf1" rx="8" stroke="#a8d8b9" stroke-width="1"/>
+  <text x="425" y="226" font-size="11.5" fill="#1e8449" font-weight="600">새 채팅 #3</text>
+  <text x="425" y="245" font-size="11.5" fill="#3a3a3c">재작업 폴더 처리해줘</text>
+  <rect x="409" y="276" width="320" height="68" fill="#eafaf1" rx="10" stroke="#a8d8b9" stroke-width="1"/>
+  <text x="425" y="296" font-size="12" fill="#1e8449" font-weight="700">✓ 왜 크레딧이 절약될까?</text>
+  <text x="425" y="314" font-size="11.5" fill="#1e8449">새 채팅 = 깨끗한 상태로 시작</text>
+  <text x="425" y="332" font-size="11.5" fill="#1e8449">→ 프로젝트 지침만 읽고 바로 작업</text>
+  <rect x="409" y="358" width="320" height="24" fill="#f2f2f7" rx="6"/>
+  <rect x="409" y="358" width="100" height="24" fill="#1e8449" rx="6"/>
+  <text x="569" y="374" text-anchor="middle" font-size="11" fill="#2ecc71" font-weight="700">크레딧 절약 ███</text>
+  <text x="573" y="410" text-anchor="middle" font-size="12" fill="#1e8449" font-weight="600">각 채팅 = 최소 크레딧만 사용</text>
+</svg>
